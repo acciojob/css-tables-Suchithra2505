@@ -1,32 +1,32 @@
 /*  your css code here. If applicable */
-td,th{
+th{
 	border:1px solid rgb(204,204,204);
 	border-radius:5px;
-	padding:0.5rem;
+	padding:8px;
 
 }
-#t1{
+#t1>td{
 	border:1px solid rgb(204,204,204);
 	border-radius:5px;
-	padding:0.5rem;
+	padding:8px;
 
 }
-#t2{
+#t2>td{
 	border:1px solid rgb(204,204,204);
 	border-radius:5px;
-	padding:0.5rem;
+	padding:8px;
 
 }
-#t3{
+#t3>td{
 	border:1px solid rgb(204,204,204);
 	border-radius:5px;
-	padding:0.5rem;
+	padding:8px;
 
 }
-#t4{
+#t4>td{
 	border:1px solid rgb(204,204,204);
 	border-radius:5px;
-	padding:0.5rem;
+	padding:8px;
 
 }
 tr:nth-child( odd) { 
