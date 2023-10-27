@@ -4,9 +4,13 @@ td,th{
 	border-radius:5px;
 	padding:0.5rem;
 }
+
 tr:nth-child(even) { 
             background-color: #ffffff; 
         }
-tr:nth-child(odd) { 
+tr:nth-child(3) { 
+            background-color: #f2f2f2; 
+        }
+tr:nth-child(5) { 
             background-color: #f2f2f2; 
         }
